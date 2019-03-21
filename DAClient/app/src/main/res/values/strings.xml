@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">DAClient</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="sex_array">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+
+    <string-array name="district_array">
+        <item>DHAKA</item>
+        <item>CHITTAGONG</item>
+        <item>RAJSHAHI</item>
+        <item>KHULANA</item>
+        <item>BARISAL</item>
+        <item>SYLHET</item>
+        <item>RANGPUR</item>
+        <item>MYMENSINGH</item>
+    </string-array>
+
+    <string-array name="district_array_all">
+        <item>ALL</item>
+        <item>DHAKA</item>
+        <item>CHITTAGONG</item>
+        <item>RAJSHAHI</item>
+        <item>KHULANA</item>
+        <item>BARISAL</item>
+        <item>SYLHET</item>
+        <item>RANGPUR</item>
+        <item>MYMENSINGH</item>
+    </string-array>
+
+    <string-array name="bloodgroup_array">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="speciality_array">
+        <item>CARDIOLOGY</item>
+        <item>MEDICINE</item>
+        <item>NEUROLOGY</item>
+    </string-array>
+
+    <string-array name="speciality_array_all">
+        <item>ALL</item>
+        <item>CARDIOLOGY</item>
+        <item>MEDICINE</item>
+        <item>NEUROLOGY</item>
+    </string-array>
+
+    <string-array name="hospital_array">
+        <item>DHAKA MEDICAL COLLEGE</item>
+        <item>SIR SALIMULLAH MEDICAL COLLEGE</item>
+    </string-array>
+
+    <string-array name="hospital_array_all">
+        <item>ALL</item>
+        <item>DHAKA MEDICAL COLLEGE</item>
+        <item>SIR SALIMULLAH MEDICAL COLLEGE</item>
+    </string-array>
+
+</resources>
